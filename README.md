@@ -1,2 +1,3 @@
-# Computa-o-Cient-fica-II
-Notebooks da matéria computação científica II
+# MAE122
+
+Projetos desenvolvidos na matéria computação científica 2
